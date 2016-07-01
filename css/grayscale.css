@@ -4,6 +4,12 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face {
+    font-family: ailerons;
+    src: url(/fonts/Ailerons-Typeface.otf);
+}
+
+
 body {
     width: 100%;
     height: 100%;
@@ -377,3 +383,19 @@ body {
 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
+.face{
+
+    font-family: ailerons;
+    letter-spacing: 9px;
+    font-weight: 200;
+    font-size: 85px;
+
+}
+
+
+.face .green{
+    color: #00ff6c;
+}
+
+
