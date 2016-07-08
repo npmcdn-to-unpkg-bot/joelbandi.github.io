@@ -10,3 +10,5 @@ Instructions on setting up
 
 2. Use your favourite http server to host the files. Example: Use http-server from npm.
 
+3. Use ```./deploy.sh <commit_message>``` to run the automatically deploy it to github pages provided you have set up the remotes accordingly.
+
