@@ -1,0 +1,21 @@
+{
+  "name": "joelbandi",
+  "homepage": "https://joelbandi.github.io",
+  "authors": [
+    "joelbandi <joelvivekbandi@gmail.com>"
+  ],
+  "description": "personal website",
+  "main": "",
+  "keywords": [
+    "website"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

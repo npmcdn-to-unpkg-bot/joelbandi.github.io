@@ -36,6 +36,10 @@ h6 {
     letter-spacing: 1px;
 }
 
+h2 {
+    text-shadow: 0 0 15px #FFFFFF;
+}
+
 p {
     margin: 0 0 25px;
     font-size: 18px;
