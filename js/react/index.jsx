@@ -5,9 +5,9 @@ import ReactDOM from 'react-dom';
 class Sample extends React.Component{
     render(){
         return (
-            <p>Powered by React js</p>
+            <p>Powered by React ⚛</p>
         )
     }
 }
 
-// ReactDOM.render(<Sample/>,document.getElementById('sample'));
+ReactDOM.render(<Sample/>,document.getElementById('react-footer'));
